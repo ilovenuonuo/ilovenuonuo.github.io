@@ -1028,7 +1028,7 @@ a:focus {
 }
 a:hover,a:active {
     outline:0;
-    color:orange
+    color:Orange
 }
 .site-top {
     width:100%;
@@ -1353,7 +1353,7 @@ a:hover,a:active {
 .yya {
     position:fixed;
     left:0;
-    background:rgba(255,255,255,.95);
+    background:rgba(255,102,102,.95);
     box-shadow:0 1px 40px -8px rgba(0,0,0,.5)
 }
 .gizle {
@@ -1362,7 +1362,7 @@ a:hover,a:active {
     z-index:9999
 }
 .site-header:hover {
-    background-color:#fff
+    background-color:#FF6666
 }
 .sabit {
     top:0;
@@ -1476,7 +1476,7 @@ a:hover,a:active {
 .site-top ul li a {
     padding:10px 0;
     display:inline-block;
-    color:#666
+    color:#fff
 }
 .site-top ul li a:hover {
     color:orange
@@ -1487,7 +1487,7 @@ a:hover,a:active {
     position:absolute;
     bottom:-16px;
     height:6px;
-    background-color:#fe9600;
+    background-color:#fff;
     width:100%;
     max-width:0;
     transition:max-width .25s ease-in-out
@@ -1548,7 +1548,7 @@ a:hover,a:active {
     display:none;
     opacity:1;
     position:absolute;
-    background:#fff;
+    background:#FF6666;
     padding:10px;
     top:46px;
     right:-13px;
@@ -5780,7 +5780,7 @@ button.botui-actions-buttons-button {
     -webkit-transform:rotateX(90deg) translate3d(0,0,30px)
 }
 .logolink a {
-    color:#464646;
+    color:#FFFFFF;
     float:left;
     font-size:20px;
     font-weight:800;
@@ -5794,7 +5794,7 @@ button.botui-actions-buttons-button {
 .logolink .sakurasono {
     background-color:rgba(255,255,255,.5);
     border-radius:5px;
-    color:#464646;
+    color:#FF0000;
     height:auto;
     line-height:25px;
     margin-right:0;
@@ -5811,7 +5811,7 @@ button.botui-actions-buttons-button {
     color:orange
 }
 .logolink.moe-mashiro a {
-    color:#464646;
+    color:#FFFFFF;
     float:left;
     font-size:28px;
     font-weight:800;
