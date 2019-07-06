@@ -1232,7 +1232,7 @@ a:hover,a:active {
 }
 .pattern-center-blank {
     padding-top:75px;
-    background-color:#fff
+    background-color:#FF6666
 }
 @media(max-width:860px) {
     .pattern-center-sakura {
@@ -1252,7 +1252,7 @@ a:hover,a:active {
     bottom:0;
     left:0;
     right:0;
-    background-color:rgba(0,0,0,.3)
+    background-color:rgba(255,102,102,.3)
 }
 .pattern-attachment-img {
     background-repeat:no-repeat;
