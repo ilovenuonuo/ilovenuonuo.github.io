@@ -142,14 +142,14 @@
   </url>
   
   <url>
-    <loc>/2019/07/04/2019070401/</loc>
+    <loc>/2019/07/04/2019070402/</loc>
     
     <lastmod>2019-07-05T10:44:09.195Z</lastmod>
     
   </url>
   
   <url>
-    <loc>/2019/07/04/2019070402/</loc>
+    <loc>/2019/07/04/2019070401/</loc>
     
     <lastmod>2019-07-05T10:44:09.195Z</lastmod>
     
@@ -205,21 +205,21 @@
   </url>
   
   <url>
-    <loc>/links/index.html</loc>
-    
-    <lastmod>2019-06-01T14:21:46.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>/video/index.html</loc>
-    
-    <lastmod>2019-06-01T14:21:46.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>/lab/index.html</loc>
+    
+    <lastmod>2019-06-01T14:21:46.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>/client/index.html</loc>
+    
+    <lastmod>2019-06-01T14:21:46.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>/links/index.html</loc>
     
     <lastmod>2019-06-01T14:21:46.000Z</lastmod>
     
@@ -233,13 +233,6 @@
   </url>
   
   <url>
-    <loc>/theme-sakura/index.html</loc>
-    
-    <lastmod>2019-06-01T14:21:46.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>/tags/index.html</loc>
     
     <lastmod>2019-06-01T14:21:46.000Z</lastmod>
@@ -247,14 +240,21 @@
   </url>
   
   <url>
-    <loc>/bangumi/index.html</loc>
+    <loc>/theme-sakura/index.html</loc>
     
     <lastmod>2019-06-01T14:21:46.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>/client/index.html</loc>
+    <loc>/video/index.html</loc>
+    
+    <lastmod>2019-06-01T14:21:46.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>/bangumi/index.html</loc>
     
     <lastmod>2019-06-01T14:21:46.000Z</lastmod>
     
