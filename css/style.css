@@ -1568,7 +1568,7 @@ a:hover,a:active {
     margin-left:-10px;
     border-width:10px;
     border-style:solid;
-    border-color:transparent transparent #fff transparent
+    border-color:transparent transparent #FF69B4 transparent
 }
 @-webkit-keyframes fadeInUp {
     0% {
