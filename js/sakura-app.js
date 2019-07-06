@@ -1082,7 +1082,7 @@ var home = location.href,
             $('.toc').removeClass('toc-fixed')
           }
         }
-        $.getScript('//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js');
+        $.getScript('//cdn.jsdelivr.net/gh/ilovenuonuo/cdn@2.3/js/busuanzi.js');
       }
     },
     AB: function () {
