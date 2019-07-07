@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <title>今天不是你的生日哦</title>
+    <script src="js/jquery.js"></script>
+  <link rel="stylesheet" href="css/reset.css">
+    <link href="js/typeit.min.css" rel="stylesheet" />
+    <script src="js/typeit.min.js"></script>
+    <link rel="stylesheet" href="css/style.css" media="screen" type="text/css" />
+
+</head>
+
+<body>
+
+<svg id="cake" version="1.1" x="0px" y="0px" width="200px" height="500px" viewBox="0 0 200 500" enable-background="new 0 0 200 500" xml:space="preserve">
+    <rect x="10" y="475.571" fill="#fefae9" width="180" height="4" />
+</svg>
+<div class="text">
+  <h1>It's not your birthday !</h1>
+    <br />
+  <p>nuonuo</p>
+    <br />
+    <br />
+    <br />
+    <p class="example4"></p> 
+
+    <style>
+        .example4{
+        font-size:26px;
+        }
+    </style>
+</div>
+<div style="text-align:center;clear:both">
+
+</div>
+
+ 
+
+  <script src="js/index.js"></script>
+
+    <embed src="music.mp3" hidden="true" loop=true>
+
+    <script>
+        $('.example4').typeIt({
+            whatToType: ["哈哈,今天不是你的生日哦.", "这里今天什么都没有.","等你生日当天再来哦."],
+     delayStart: 500,
+     typeSpeed: 250,
+     breakLines: false 
+});
+    </script>
+
+</body>
+
+</html>
