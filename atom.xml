@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2019-07-07T08:31:03.076Z</updated>
+  <updated>2019-07-07T12:14:03.555Z</updated>
   <id>/</id>
   
   <author>
@@ -15,6 +15,22 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你终于来啦,这是此网站的观看指南</title>
+    <link href="/2019/07/07/howtouse/"/>
+    <id>/2019/07/07/howtouse/</id>
+    <published>2019-07-07T11:32:05.000Z</published>
+    <updated>2019-07-07T12:14:03.555Z</updated>
+    
+    <summary type="html">
+    
+      先点一下标题,就可以继续文章内容啦~
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>糯糯的歌</title>
