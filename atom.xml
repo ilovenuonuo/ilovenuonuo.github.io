@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2019-07-07T13:41:04.742Z</updated>
+  <updated>2019-07-07T18:37:14.741Z</updated>
   <id>/</id>
   
   <author>
@@ -18,14 +18,46 @@
   
   <entry>
     <title>你终于来啦,这是此网站的观看指南</title>
-    <link href="/2019/07/07/howtouse/"/>
-    <id>/2019/07/07/howtouse/</id>
-    <published>2019-07-07T12:48:34.000Z</published>
-    <updated>2019-07-07T13:41:04.742Z</updated>
+    <link href="/2019/07/08/howtouse/"/>
+    <id>/2019/07/08/howtouse/</id>
+    <published>2019-07-07T18:37:53.000Z</published>
+    <updated>2019-07-07T18:37:14.741Z</updated>
     
     <summary type="html">
     
       先点一下标题,就可以继续文章内容啦~
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>玩lol为什么我不说话</title>
+    <link href="/2019/07/08/2019070802/"/>
+    <id>/2019/07/08/2019070802/</id>
+    <published>2019-07-07T18:31:53.000Z</published>
+    <updated>2019-07-07T18:37:52.294Z</updated>
+    
+    <summary type="html">
+    
+      有些&quot;操作&quot;,我自己都看不下去,太菜了，你们节奏太快,一分钟至少发生2个人头,没停过...
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>说玩恐怖游戏的是你,最怂的也是你~</title>
+    <link href="/2019/07/08/2019070801/"/>
+    <id>/2019/07/08/2019070801/</id>
+    <published>2019-07-07T18:28:43.000Z</published>
+    <updated>2019-07-07T18:38:10.614Z</updated>
+    
+    <summary type="html">
+    
+      记录下Pacify~ 怂什么 就是干~ 虽然我也怕,晚安啦,老糯糯~
     
     </summary>
     
@@ -298,38 +330,6 @@
     <summary type="html">
     
       你送的第一件/第二件礼物,好开心~
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>终于不生气了</title>
-    <link href="/2019/07/02/20190702/"/>
-    <id>/2019/07/02/20190702/</id>
-    <published>2019-07-02T11:11:38.000Z</published>
-    <updated>2019-07-07T13:29:49.189Z</updated>
-    
-    <summary type="html">
-    
-      我真的不在意,我也没不开心~
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>第一篇文章</title>
-    <link href="/2019/07/01/hello-world/"/>
-    <id>/2019/07/01/hello-world/</id>
-    <published>2019-07-01T12:07:38.000Z</published>
-    <updated>2019-07-07T13:32:04.654Z</updated>
-    
-    <summary type="html">
-    
-      这是小窝建成后的第一篇文章.作为开端.正式开始记录喜欢糯糯的每一天~
     
     </summary>
     
