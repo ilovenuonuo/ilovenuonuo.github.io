@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>/photos/index.html</loc>
+    
+    <lastmod>2019-07-07T11:24:12.157Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>/2019/07/07/gedan/</loc>
     
     <lastmod>2019-07-07T08:31:03.076Z</lastmod>
@@ -68,13 +75,6 @@
     <loc>/2019/07/07/2019070702/</loc>
     
     <lastmod>2019-07-06T23:20:20.370Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>/photos/index.html</loc>
-    
-    <lastmod>2019-07-06T12:54:45.326Z</lastmod>
     
   </url>
   
@@ -233,6 +233,13 @@
   </url>
   
   <url>
+    <loc>/lab/index.html</loc>
+    
+    <lastmod>2019-06-01T14:21:46.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>/links/index.html</loc>
     
     <lastmod>2019-06-01T14:21:46.000Z</lastmod>
@@ -240,21 +247,7 @@
   </url>
   
   <url>
-    <loc>/video/index.html</loc>
-    
-    <lastmod>2019-06-01T14:21:46.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>/tags/index.html</loc>
-    
-    <lastmod>2019-06-01T14:21:46.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>/theme-sakura/index.html</loc>
+    <loc>/client/index.html</loc>
     
     <lastmod>2019-06-01T14:21:46.000Z</lastmod>
     
@@ -268,7 +261,14 @@
   </url>
   
   <url>
-    <loc>/lab/index.html</loc>
+    <loc>/theme-sakura/index.html</loc>
+    
+    <lastmod>2019-06-01T14:21:46.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>/tags/index.html</loc>
     
     <lastmod>2019-06-01T14:21:46.000Z</lastmod>
     
@@ -282,7 +282,7 @@
   </url>
   
   <url>
-    <loc>/client/index.html</loc>
+    <loc>/video/index.html</loc>
     
     <lastmod>2019-06-01T14:21:46.000Z</lastmod>
     
