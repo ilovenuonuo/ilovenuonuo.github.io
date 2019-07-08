@@ -1582,6 +1582,15 @@ $(function () {
       Siren.CE()
       timeSeriesReload(true)
     }, false)
+    $(document).on('pjax:start', function () {
+    if (window.aplayers) {
+    	for (var i = 0; i < aplayers.length; i++) {
+	    	if (aplayers[i].container.className == "aplayer aplayer-tag-marker") {
+		    	try {aplayers[i].destroy()} catch(e){}
+	    	}
+	    }	
+    }
+	});
   }
   $.fn.postLike = function () {
     if ($(this).hasClass('done')) {
