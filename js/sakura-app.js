@@ -1585,7 +1585,7 @@ $(function () {
     $(document).on('pjax:start', function () {
     if (window.aplayers) {
     	for (var i = 0; i < aplayers.length; i++) {
-	    	if (aplayers[i].container.className == "aplayer aplayer-tag-marker") {
+	    	if (aplayers[i].container.className.search("aplayer aplayer-tag-marker") != -1 ) {
 		    	try {aplayers[i].destroy()} catch(e){}
 	    	}
 	    }	
