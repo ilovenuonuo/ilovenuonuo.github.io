@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>/2019/07/19/20190719/</loc>
+    
+    <lastmod>2019-07-18T17:10:49.729Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>/2019/07/17/2019071701/</loc>
     
     <lastmod>2019-07-17T11:36:35.105Z</lastmod>
@@ -373,7 +380,7 @@
   </url>
   
   <url>
-    <loc>/tags/index.html</loc>
+    <loc>/links/index.html</loc>
     
     <lastmod>2019-06-01T14:21:46.000Z</lastmod>
     
@@ -387,13 +394,6 @@
   </url>
   
   <url>
-    <loc>/links/index.html</loc>
-    
-    <lastmod>2019-06-01T14:21:46.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>/client/index.html</loc>
     
     <lastmod>2019-06-01T14:21:46.000Z</lastmod>
@@ -401,7 +401,14 @@
   </url>
   
   <url>
-    <loc>/rss/index.html</loc>
+    <loc>/tags/index.html</loc>
+    
+    <lastmod>2019-06-01T14:21:46.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>/bangumi/index.html</loc>
     
     <lastmod>2019-06-01T14:21:46.000Z</lastmod>
     
@@ -415,7 +422,7 @@
   </url>
   
   <url>
-    <loc>/bangumi/index.html</loc>
+    <loc>/rss/index.html</loc>
     
     <lastmod>2019-06-01T14:21:46.000Z</lastmod>
     
